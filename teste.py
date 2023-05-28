@@ -1,4 +1,4 @@
 # Ei!
 print('Python')
-print('Explícito', 'é', 'melhor-que-implícito.')
-print('Simples', 'é', 'melhor-que-complexo.')
+print('Explícito', 'é', 'melhor-que-implícito.', sep='-' )
+print('Simples', 'é', 'melhor-que-complexo.', sep='-')
