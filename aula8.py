@@ -1,9 +1,9 @@
 nome = 'Gabriel'
 sobrenome = 'Martins'
-idade = int(36)
-ano_nascimento = int(1986)
+idade = 37
+ano_nascimento = 2023 - idade
 maior_de_idade = idade >= 18
-altura_metros = float(1.76)
+altura_metros = 1.76
 
 print('Nome:', nome)
 print('Sobrenome:', sobrenome)
