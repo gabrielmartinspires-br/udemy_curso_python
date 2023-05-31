@@ -1,5 +1,5 @@
 nome = 'Gabriel'
-altura = 1.76
+altura = 1.763
 peso = 98
 imc = peso / (altura ** 2)    # IMC = peso / (altura x altura)
 
