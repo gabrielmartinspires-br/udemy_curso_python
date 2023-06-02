@@ -1,10 +1,10 @@
 # if / elif      / else
 # se / se não se / se não
 
-condicao1 = False
-condicao2 = False
-condicao3 = False
-condicao4 = False
+condicao1 = True
+condicao2 = True
+condicao3 = True
+condicao4 = True
 #  Escolha uma condição e troque False por True
 if condicao1:
     print('Código para a condição 1')
