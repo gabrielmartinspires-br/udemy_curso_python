@@ -12,8 +12,8 @@ nome = 'Otávio'
 print('vio' in nome)
 print('zero' in nome)
 
-# print(10 * '-')
+print(10 * '-')
 
-# print('vio' not in nome)
-# print('zero' not in nome)
+print('vio' not in nome)
+print('zero' not in nome)
 
