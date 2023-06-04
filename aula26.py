@@ -16,3 +16,5 @@ Ex.: 0>-100,.1f
 
 Conversion flags - !r !s !a
 """
+variavel = 'ABC'
+print(f'{variavel: >10}')
