@@ -19,5 +19,5 @@
 #     print("Sair")
 
 # Avaliação de curto circuíto
-
-print(0 or False or 0 or 'abc' or True)
+senha = 0 or False or 0 or 'abc' or True
+print(senha)
