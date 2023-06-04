@@ -12,3 +12,5 @@ de caracteres da str
 variavel = 'olá mundo'
 print(variavel[5])
 print(variavel[-4])
+print(variavel[4:])
+print(variavel[4:8])
