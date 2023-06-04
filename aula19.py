@@ -11,3 +11,5 @@ OP      Significado         Exemplo (True)
 !=      diferente           'a'  != 'b'
 
 """
+maior = 2 > 2
+maior_ou_igual = 2 >= 2
