@@ -10,7 +10,7 @@ x ou X - Hexadecimal
 > - Esquerda
 < - Direita
 ^ - Centro
-
+= - Força o número a aparecer antes dos zeros
 Sinal  + ou -
 Ex.: 0>-100,.1f
 
@@ -24,3 +24,4 @@ print(f'{variavel:0^10}')
 print(f'{1000.4873648123746:,.1f}')
 print(f'{-1000.4873648123746:-,.1f}')
 print(f'{1000.4873648123746:+,.1f}')
+print(f'{1000.4873648123746:0>+10,.1f}')
