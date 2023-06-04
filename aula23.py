@@ -1,9 +1,12 @@
 # Operador lógico "not"
 # Usado para inverter expressões
 # not True = False
-# not False - True
+# not False = True
 
-senha = input('Senha: ')
+# senha = input('Senha: ')
 
-if not senha:
-    print('Você não digitou nada')
+# if not senha:
+#     print('Você não digitou nada')
+
+print(not True) #False
+print(not False) #True
