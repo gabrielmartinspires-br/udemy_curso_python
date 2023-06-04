@@ -8,3 +8,5 @@
 # Também existe o tipo None que é 
 # usado para representar um não valor
 
+entrada = input('[E]ntrar [S]air: ')
+print(entrada)
