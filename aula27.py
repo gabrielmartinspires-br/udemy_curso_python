@@ -19,4 +19,4 @@ variavel = 'olá mundo'
 # print(variavel[-9:-4])
 # print(variavel[-8:-2])
 # print(len(variavel))
-# print(len(variavel[3]))
+print(len(variavel[3]))
