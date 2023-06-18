@@ -19,5 +19,3 @@
 #     print("Sair")
 
 # Avaliação de curto circuíto
-senha = input('Senha: ') or 'Sem senha'
-print(senha)
