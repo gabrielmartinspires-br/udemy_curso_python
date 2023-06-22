@@ -9,3 +9,8 @@ if nome and idade:
     if ' ' in nome:
         print('Seu nome contém espaços')
 
+    else:
+        print('Seu nome NÃO contém espaços')
+    print(f'Seu nome tem {quantidade} letras')
+    print(f'A primeira letra do seu nome é {nome[0]}')
+    print(f'A ultima letra do seu nome é {nome[-1]}')
