@@ -23,3 +23,4 @@ variavel = 'olá mundo'
 # print(variavel[0:9:2])
 # print(variavel[-1:-10:-1])
 # print(variavel[-1:-10:-2])
+print(variavel[-1:0:-1])
